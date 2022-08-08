@@ -1,3 +1,7 @@
+const getAllUsers = async (req, res) => {
+  console.log("getAllUsers");
+};
+
 const getUserById = async (req, res) => {
   console.log("getUserById");
 };
@@ -15,6 +19,7 @@ const deleteUserById = async (req, res) => {
 };
 
 module.exports = {
+  getAllUsers,
   getUserById,
   createUser,
   updateUserById,
