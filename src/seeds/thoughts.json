@@ -1,0 +1,32 @@
+[
+  {
+    "thoughtText": "This is  a thought",
+    "userName": "user1",
+    "reactions": [
+      {
+        "reactionBody": "This is the body of the reaction",
+        "userName": "user1"
+      }
+    ]
+  },
+  {
+    "thoughtText": "This is  another thought",
+    "userName": "user1",
+    "reactions": [
+      {
+        "reactionBody": "This is the body of the reaction from a different user",
+        "userName": "user2"
+      }
+    ]
+  },
+  {
+    "thoughtText": "These are more thoughts",
+    "userName": "user3",
+    "reactions": [
+      {
+        "reactionBody": "This is another body of the reaction",
+        "userName": "user3"
+      }
+    ]
+  }
+]
