@@ -28,7 +28,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Demonstration video using Postman
 
-[![Watch the video](./Assets/postman-video.mp4)]
+![Watch the video](./Assets/postman-video.mp4)
 
 ### API Routes
 
