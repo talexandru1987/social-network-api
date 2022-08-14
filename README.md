@@ -30,6 +30,11 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ![Watch the video](./Assets/postman-video.mp4)
 
+
+https://user-images.githubusercontent.com/31418446/184547905-a2b0c706-ae85-4b44-af6d-e0a98949d6e9.mp4
+
+
+
 ### API Routes
 
 **`/api/users`**
